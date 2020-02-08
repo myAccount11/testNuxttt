@@ -3,7 +3,7 @@ export default {
   mode: 'universal',
   generate: {
     fallback: true
-  }
+  },
   
   /*
   ** Headers of the page
